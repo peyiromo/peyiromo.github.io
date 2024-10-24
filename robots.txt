@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://peyiromo.github.io/sitemap/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/NPu/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/mdl/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/rjo/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/mGT/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/sFA/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/Vln/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/pPD/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/lwk/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/YTg/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/mfW/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/fRg/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/Mmf/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/ZQh/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/OMV/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/dmr/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/hie/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/JiD/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/LjQ/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/dVc/sitemap_index.peyiromo
+Sitemap: https://peyiromo.github.io/eKb/sitemap_index.peyiromo
